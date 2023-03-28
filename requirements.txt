@@ -1,0 +1,11 @@
+robotframework
+
+robotframework-appiumlibrary
+
+robotframework-faker
+
+robotframework-tidy
+
+robotframework-robocop
+
+robotframework-pabot
